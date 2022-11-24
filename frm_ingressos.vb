@@ -26,11 +26,16 @@
     End Sub
 
     Private Sub drop_id_compra_SelectedIndexChanged(sender As Object, e As EventArgs) Handles drop_id_compra.SelectedIndexChanged
-        sql = $"SELECT * FROM tb_compra WHERE id = {drop_id_compra.SelectedItem}"
-        rs = db.Execute(sql)
-        txt_data.Text = rs.Fields(3).Value
-        txt_pagamento.Text = rs.Fields(4).Value
-        txt_jogo.Text = rs.Fields(6).Value
-        txt_valor.Text = $"R${rs.Fields(5).Value},00"
+        Try
+            sql = $"SELECT * FROM tb_compra WHERE id = {drop_id_compra.SelectedItem}"
+            rs = db.Execute(sql)
+            txt_data.Text = rs.Fields(3).Value
+            txt_pagamento.Text = rs.Fields(4).Value
+            txt_jogo.Text = rs.Fields(6).Value
+            txt_valor.Text = $"R${rs.Fields(5).Value},00"
+        Catch ex As Exception
+
+        End Try
+
     End Sub
 End Class

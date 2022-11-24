@@ -25,11 +25,15 @@
     End Sub
 
     Private Sub drop_id_mensagem_SelectedIndexChanged(sender As Object, e As EventArgs) Handles drop_id_mensagem.SelectedIndexChanged
-        sql = $"SELECT * FROM tb_suporte WHERE id_suporte = {drop_id_mensagem.SelectedItem}"
-        rs = db.Execute(sql)
-        txt_usuario.Text = rs.Fields(1).Value
-        txt_email.Text = rs.Fields(2).Value
-        txt_mensagem.Text = rs.Fields(3).Value
-        txt_data.Text = rs.Fields(4).Value
+        Try
+            sql = $"SELECT * FROM tb_suporte WHERE id_suporte = {drop_id_mensagem.SelectedItem}"
+            rs = db.Execute(sql)
+            txt_usuario.Text = rs.Fields(1).Value
+            txt_email.Text = rs.Fields(2).Value
+            txt_mensagem.Text = rs.Fields(3).Value
+            txt_data.Text = rs.Fields(4).Value
+        Catch ex As Exception
+
+        End Try
     End Sub
 End Class
