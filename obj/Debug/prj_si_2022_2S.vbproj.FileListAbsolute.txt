@@ -1,0 +1,339 @@
+C:\Users\aluno\Desktop\prj_si_2022_2S\bin\Debug\prj_si_2022_2S.exe.config
+C:\Users\aluno\Desktop\prj_si_2022_2S\bin\Debug\prj_si_2022_2S.exe
+C:\Users\aluno\Desktop\prj_si_2022_2S\bin\Debug\prj_si_2022_2S.pdb
+C:\Users\aluno\Desktop\prj_si_2022_2S\bin\Debug\prj_si_2022_2S.xml
+C:\Users\aluno\Desktop\prj_si_2022_2S\obj\Debug\prj_si_2022_2S.vbproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\prj_si_2022_2S\obj\Debug\prj_si_2022_2S.vbproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\Desktop\prj_si_2022_2S\obj\Debug\prj_si_2022_2S.Form1.resources
+C:\Users\aluno\Desktop\prj_si_2022_2S\obj\Debug\prj_si_2022_2S.Resources.resources
+C:\Users\aluno\Desktop\prj_si_2022_2S\obj\Debug\prj_si_2022_2S.vbproj.GenerateResource.cache
+C:\Users\aluno\Desktop\prj_si_2022_2S\obj\Debug\prj_si_2022_2S.vbproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\prj_si_2022_2S\obj\Debug\prj_si_2022_2S.exe
+C:\Users\aluno\Desktop\prj_si_2022_2S\obj\Debug\prj_si_2022_2S.xml
+C:\Users\aluno\Desktop\prj_si_2022_2S\obj\Debug\prj_si_2022_2S.pdb
+C:\Users\aluno\Desktop\prj_si_2022_2S\obj\Debug\prj_si_2022_2S.frm_clientes.resources
+C:\Users\aluno\Desktop\prj_si_2022_2S\obj\Debug\Interop.ADODB.dll
+C:\Users\aluno\Desktop\prj_si_2022_2S\obj\Debug\prj_si_2022_2S.vbproj.ResolveComReference.cache
+C:\Users\aluno\Desktop\prj_si_2022_2S\obj\Debug\prj_si_2022_2S.frm_login.resources
+C:\Users\aluno\Desktop\prj_si_2022_2S\obj\Debug\prj_si_2022_2S.frm_cadastro_contas.resources
+D:\2º SEMESTRE\prj_si_2022_2S\bin\Debug\prj_si_2022_2S.exe.config
+D:\2º SEMESTRE\prj_si_2022_2S\bin\Debug\prj_si_2022_2S.exe
+D:\2º SEMESTRE\prj_si_2022_2S\bin\Debug\prj_si_2022_2S.pdb
+D:\2º SEMESTRE\prj_si_2022_2S\bin\Debug\prj_si_2022_2S.xml
+D:\2º SEMESTRE\prj_si_2022_2S\obj\Debug\prj_si_2022_2S.vbproj.AssemblyReference.cache
+D:\2º SEMESTRE\prj_si_2022_2S\obj\Debug\prj_si_2022_2S.vbproj.SuggestedBindingRedirects.cache
+D:\2º SEMESTRE\prj_si_2022_2S\obj\Debug\Interop.ADODB.dll
+D:\2º SEMESTRE\prj_si_2022_2S\obj\Debug\prj_si_2022_2S.vbproj.ResolveComReference.cache
+D:\2º SEMESTRE\prj_si_2022_2S\obj\Debug\prj_si_2022_2S.Form1.resources
+D:\2º SEMESTRE\prj_si_2022_2S\obj\Debug\prj_si_2022_2S.frm_cadastro_contas.resources
+D:\2º SEMESTRE\prj_si_2022_2S\obj\Debug\prj_si_2022_2S.frm_clientes.resources
+D:\2º SEMESTRE\prj_si_2022_2S\obj\Debug\prj_si_2022_2S.frm_login.resources
+D:\2º SEMESTRE\prj_si_2022_2S\obj\Debug\prj_si_2022_2S.Resources.resources
+D:\2º SEMESTRE\prj_si_2022_2S\obj\Debug\prj_si_2022_2S.vbproj.GenerateResource.cache
+D:\2º SEMESTRE\prj_si_2022_2S\obj\Debug\prj_si_2022_2S.vbproj.CoreCompileInputs.cache
+D:\2º SEMESTRE\prj_si_2022_2S\obj\Debug\prj_si_2022_2S.exe
+D:\2º SEMESTRE\prj_si_2022_2S\obj\Debug\prj_si_2022_2S.xml
+D:\2º SEMESTRE\prj_si_2022_2S\obj\Debug\prj_si_2022_2S.pdb
+D:\2º SEMESTRE\Engenharia de Software\prj_si_2022_2S\bin\Debug\prj_si_2022_2S.exe.config
+D:\2º SEMESTRE\Engenharia de Software\prj_si_2022_2S\bin\Debug\prj_si_2022_2S.exe
+D:\2º SEMESTRE\Engenharia de Software\prj_si_2022_2S\bin\Debug\prj_si_2022_2S.pdb
+D:\2º SEMESTRE\Engenharia de Software\prj_si_2022_2S\bin\Debug\prj_si_2022_2S.xml
+D:\2º SEMESTRE\Engenharia de Software\prj_si_2022_2S\obj\Debug\prj_si_2022_2S.vbproj.AssemblyReference.cache
+D:\2º SEMESTRE\Engenharia de Software\prj_si_2022_2S\obj\Debug\prj_si_2022_2S.vbproj.SuggestedBindingRedirects.cache
+D:\2º SEMESTRE\Engenharia de Software\prj_si_2022_2S\obj\Debug\Interop.ADODB.dll
+D:\2º SEMESTRE\Engenharia de Software\prj_si_2022_2S\obj\Debug\prj_si_2022_2S.vbproj.ResolveComReference.cache
+D:\2º SEMESTRE\Engenharia de Software\prj_si_2022_2S\obj\Debug\prj_si_2022_2S.Form1.resources
+D:\2º SEMESTRE\Engenharia de Software\prj_si_2022_2S\obj\Debug\prj_si_2022_2S.frm_cadastro_contas.resources
+D:\2º SEMESTRE\Engenharia de Software\prj_si_2022_2S\obj\Debug\prj_si_2022_2S.frm_clientes.resources
+D:\2º SEMESTRE\Engenharia de Software\prj_si_2022_2S\obj\Debug\prj_si_2022_2S.frm_login.resources
+D:\2º SEMESTRE\Engenharia de Software\prj_si_2022_2S\obj\Debug\prj_si_2022_2S.Resources.resources
+D:\2º SEMESTRE\Engenharia de Software\prj_si_2022_2S\obj\Debug\prj_si_2022_2S.vbproj.GenerateResource.cache
+D:\2º SEMESTRE\Engenharia de Software\prj_si_2022_2S\obj\Debug\prj_si_2022_2S.vbproj.CoreCompileInputs.cache
+D:\2º SEMESTRE\Engenharia de Software\prj_si_2022_2S\obj\Debug\prj_si_2022_2S.exe
+D:\2º SEMESTRE\Engenharia de Software\prj_si_2022_2S\obj\Debug\prj_si_2022_2S.xml
+D:\2º SEMESTRE\Engenharia de Software\prj_si_2022_2S\obj\Debug\prj_si_2022_2S.pdb
+D:\2º SEMESTRE\Engenharia de Software\prj_si_2022_2S\obj\Debug\prj_si_2022_2S.Form2.resources
+C:\Users\Aluno\Desktop\prj_si_2022_2S\obj\Debug\prj_si_2022_2S.frm_perfil.resources
+C:\Users\guilh\Documents\GitHub\flash-tickets\bin\Debug\prj_si_2022_2S.exe.config
+C:\Users\guilh\Documents\GitHub\flash-tickets\bin\Debug\prj_si_2022_2S.exe
+C:\Users\guilh\Documents\GitHub\flash-tickets\bin\Debug\prj_si_2022_2S.pdb
+C:\Users\guilh\Documents\GitHub\flash-tickets\bin\Debug\prj_si_2022_2S.xml
+C:\Users\guilh\Documents\GitHub\flash-tickets\obj\Debug\prj_si_2022_2S.vbproj.AssemblyReference.cache
+C:\Users\guilh\Documents\GitHub\flash-tickets\obj\Debug\prj_si_2022_2S.vbproj.SuggestedBindingRedirects.cache
+C:\Users\guilh\Documents\GitHub\flash-tickets\obj\Debug\Interop.ADODB.dll
+C:\Users\guilh\Documents\GitHub\flash-tickets\obj\Debug\prj_si_2022_2S.vbproj.ResolveComReference.cache
+C:\Users\guilh\Documents\GitHub\flash-tickets\obj\Debug\prj_si_2022_2S.Form1.resources
+C:\Users\guilh\Documents\GitHub\flash-tickets\obj\Debug\prj_si_2022_2S.frm_perfil.resources
+C:\Users\guilh\Documents\GitHub\flash-tickets\obj\Debug\prj_si_2022_2S.frm_cadastro_contas.resources
+C:\Users\guilh\Documents\GitHub\flash-tickets\obj\Debug\prj_si_2022_2S.frm_clientes.resources
+C:\Users\guilh\Documents\GitHub\flash-tickets\obj\Debug\prj_si_2022_2S.frm_login.resources
+C:\Users\guilh\Documents\GitHub\flash-tickets\obj\Debug\prj_si_2022_2S.Resources.resources
+C:\Users\guilh\Documents\GitHub\flash-tickets\obj\Debug\prj_si_2022_2S.vbproj.GenerateResource.cache
+C:\Users\guilh\Documents\GitHub\flash-tickets\obj\Debug\prj_si_2022_2S.vbproj.CoreCompileInputs.cache
+C:\Users\guilh\Documents\GitHub\flash-tickets\obj\Debug\prj_si_2022_2S.exe
+C:\Users\guilh\Documents\GitHub\flash-tickets\obj\Debug\prj_si_2022_2S.xml
+C:\Users\guilh\Documents\GitHub\flash-tickets\obj\Debug\prj_si_2022_2S.pdb
+C:\Users\guilh\Documents\GitHub\flash-tickets\obj\Debug\prj_si_2022_2S.frm_senha.resources
+D:\flash-tickets\bin\Debug\prj_si_2022_2S.exe.config
+D:\flash-tickets\bin\Debug\prj_si_2022_2S.exe
+D:\flash-tickets\bin\Debug\prj_si_2022_2S.pdb
+D:\flash-tickets\bin\Debug\prj_si_2022_2S.xml
+D:\flash-tickets\obj\Debug\prj_si_2022_2S.vbproj.AssemblyReference.cache
+D:\flash-tickets\obj\Debug\prj_si_2022_2S.vbproj.SuggestedBindingRedirects.cache
+D:\flash-tickets\obj\Debug\Interop.ADODB.dll
+D:\flash-tickets\obj\Debug\prj_si_2022_2S.vbproj.ResolveComReference.cache
+D:\flash-tickets\obj\Debug\prj_si_2022_2S.Form1.resources
+D:\flash-tickets\obj\Debug\prj_si_2022_2S.frm_senha.resources
+D:\flash-tickets\obj\Debug\prj_si_2022_2S.frm_perfil.resources
+D:\flash-tickets\obj\Debug\prj_si_2022_2S.frm_cadastro_contas.resources
+D:\flash-tickets\obj\Debug\prj_si_2022_2S.frm_clientes.resources
+D:\flash-tickets\obj\Debug\prj_si_2022_2S.frm_login.resources
+D:\flash-tickets\obj\Debug\prj_si_2022_2S.Resources.resources
+D:\flash-tickets\obj\Debug\prj_si_2022_2S.vbproj.GenerateResource.cache
+D:\flash-tickets\obj\Debug\prj_si_2022_2S.vbproj.CoreCompileInputs.cache
+D:\flash-tickets\obj\Debug\prj_si_2022_2S.exe
+D:\flash-tickets\obj\Debug\prj_si_2022_2S.xml
+D:\flash-tickets\obj\Debug\prj_si_2022_2S.pdb
+C:\Users\Aluno\Desktop\flash-tickets\bin\Debug\prj_si_2022_2S.exe.config
+C:\Users\Aluno\Desktop\flash-tickets\bin\Debug\prj_si_2022_2S.exe
+C:\Users\Aluno\Desktop\flash-tickets\bin\Debug\prj_si_2022_2S.pdb
+C:\Users\Aluno\Desktop\flash-tickets\bin\Debug\prj_si_2022_2S.xml
+C:\Users\Aluno\Desktop\flash-tickets\obj\Debug\prj_si_2022_2S.vbproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\flash-tickets\obj\Debug\prj_si_2022_2S.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Desktop\flash-tickets\obj\Debug\Interop.ADODB.dll
+C:\Users\Aluno\Desktop\flash-tickets\obj\Debug\prj_si_2022_2S.vbproj.ResolveComReference.cache
+C:\Users\Aluno\Desktop\flash-tickets\obj\Debug\prj_si_2022_2S.frm_senha.resources
+C:\Users\Aluno\Desktop\flash-tickets\obj\Debug\prj_si_2022_2S.frm_perfil.resources
+C:\Users\Aluno\Desktop\flash-tickets\obj\Debug\prj_si_2022_2S.frm_cadastro_contas.resources
+C:\Users\Aluno\Desktop\flash-tickets\obj\Debug\prj_si_2022_2S.frm_clientes.resources
+C:\Users\Aluno\Desktop\flash-tickets\obj\Debug\prj_si_2022_2S.frm_login.resources
+C:\Users\Aluno\Desktop\flash-tickets\obj\Debug\prj_si_2022_2S.Resources.resources
+C:\Users\Aluno\Desktop\flash-tickets\obj\Debug\prj_si_2022_2S.vbproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\flash-tickets\obj\Debug\prj_si_2022_2S.vbproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\flash-tickets\obj\Debug\prj_si_2022_2S.exe
+C:\Users\Aluno\Desktop\flash-tickets\obj\Debug\prj_si_2022_2S.xml
+C:\Users\Aluno\Desktop\flash-tickets\obj\Debug\prj_si_2022_2S.pdb
+C:\Users\enzzc\Desktop\flash-tickets\bin\Debug\prj_si_2022_2S.exe.config
+C:\Users\enzzc\Desktop\flash-tickets\bin\Debug\prj_si_2022_2S.exe
+C:\Users\enzzc\Desktop\flash-tickets\bin\Debug\prj_si_2022_2S.pdb
+C:\Users\enzzc\Desktop\flash-tickets\bin\Debug\prj_si_2022_2S.xml
+C:\Users\enzzc\Desktop\flash-tickets\obj\Debug\prj_si_2022_2S.vbproj.AssemblyReference.cache
+C:\Users\enzzc\Desktop\flash-tickets\obj\Debug\prj_si_2022_2S.vbproj.SuggestedBindingRedirects.cache
+C:\Users\enzzc\Desktop\flash-tickets\obj\Debug\Interop.ADODB.dll
+C:\Users\enzzc\Desktop\flash-tickets\obj\Debug\prj_si_2022_2S.vbproj.ResolveComReference.cache
+C:\Users\enzzc\Desktop\flash-tickets\obj\Debug\prj_si_2022_2S.frm_senha.resources
+C:\Users\enzzc\Desktop\flash-tickets\obj\Debug\prj_si_2022_2S.frm_perfil.resources
+C:\Users\enzzc\Desktop\flash-tickets\obj\Debug\prj_si_2022_2S.frm_cadastro_contas.resources
+C:\Users\enzzc\Desktop\flash-tickets\obj\Debug\prj_si_2022_2S.frm_clientes.resources
+C:\Users\enzzc\Desktop\flash-tickets\obj\Debug\prj_si_2022_2S.frm_login.resources
+C:\Users\enzzc\Desktop\flash-tickets\obj\Debug\prj_si_2022_2S.Resources.resources
+C:\Users\enzzc\Desktop\flash-tickets\obj\Debug\prj_si_2022_2S.vbproj.GenerateResource.cache
+C:\Users\enzzc\Desktop\flash-tickets\obj\Debug\prj_si_2022_2S.vbproj.CoreCompileInputs.cache
+C:\Users\enzzc\Desktop\flash-tickets\obj\Debug\prj_si_2022_2S.exe
+C:\Users\enzzc\Desktop\flash-tickets\obj\Debug\prj_si_2022_2S.xml
+C:\Users\enzzc\Desktop\flash-tickets\obj\Debug\prj_si_2022_2S.pdb
+C:\Users\enzzc\Desktop\flash-tickets\obj\Debug\prj_si_2022_2S.vbproj.CopyComplete
+C:\Users\enzzc\Desktop\flash-tickets\bin\Debug\MetroFramework.Design.dll
+C:\Users\enzzc\Desktop\flash-tickets\bin\Debug\MetroFramework.dll
+C:\Users\enzzc\Desktop\flash-tickets\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\enzzc\Desktop\flash-tickets\obj\Debug\prj_si_2022_2S.exe.licenses
+C:\Users\Aluno\Desktop\flash-tickets\bin\Debug\MetroFramework.Design.dll
+C:\Users\Aluno\Desktop\flash-tickets\bin\Debug\MetroFramework.dll
+C:\Users\Aluno\Desktop\flash-tickets\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Aluno\Desktop\flash-tickets\obj\Debug\prj_si_2022_2S.exe.licenses
+C:\Users\Aluno\Desktop\flash-tickets\obj\Debug\prj_si_2022_2S.vbproj.CopyComplete
+C:\Users\Aluno\Desktop\flash-tickets\obj\Debug\prj_si_2022_2S.frm_menu.resources
+C:\Users\Aluno\Desktop\flash-tickets\obj\Debug\prj_si_2022_2S.frm_explorar.resources
+D:\projeto recente\flash-tickets\bin\Debug\prj_si_2022_2S.exe.config
+D:\projeto recente\flash-tickets\bin\Debug\prj_si_2022_2S.exe
+D:\projeto recente\flash-tickets\bin\Debug\prj_si_2022_2S.pdb
+D:\projeto recente\flash-tickets\bin\Debug\prj_si_2022_2S.xml
+D:\projeto recente\flash-tickets\bin\Debug\MetroFramework.Design.dll
+D:\projeto recente\flash-tickets\bin\Debug\MetroFramework.dll
+D:\projeto recente\flash-tickets\bin\Debug\MetroFramework.Fonts.dll
+D:\projeto recente\flash-tickets\obj\Debug\prj_si_2022_2S.vbproj.AssemblyReference.cache
+D:\projeto recente\flash-tickets\obj\Debug\prj_si_2022_2S.vbproj.SuggestedBindingRedirects.cache
+D:\projeto recente\flash-tickets\obj\Debug\Interop.ADODB.dll
+D:\projeto recente\flash-tickets\obj\Debug\prj_si_2022_2S.vbproj.ResolveComReference.cache
+D:\projeto recente\flash-tickets\obj\Debug\prj_si_2022_2S.frm_explorar.resources
+D:\projeto recente\flash-tickets\obj\Debug\prj_si_2022_2S.frm_menu.resources
+D:\projeto recente\flash-tickets\obj\Debug\prj_si_2022_2S.frm_senha.resources
+D:\projeto recente\flash-tickets\obj\Debug\prj_si_2022_2S.frm_perfil.resources
+D:\projeto recente\flash-tickets\obj\Debug\prj_si_2022_2S.frm_cadastro_contas.resources
+D:\projeto recente\flash-tickets\obj\Debug\prj_si_2022_2S.frm_clientes.resources
+D:\projeto recente\flash-tickets\obj\Debug\prj_si_2022_2S.frm_login.resources
+D:\projeto recente\flash-tickets\obj\Debug\prj_si_2022_2S.Resources.resources
+D:\projeto recente\flash-tickets\obj\Debug\prj_si_2022_2S.vbproj.GenerateResource.cache
+D:\projeto recente\flash-tickets\obj\Debug\prj_si_2022_2S.exe.licenses
+D:\projeto recente\flash-tickets\obj\Debug\prj_si_2022_2S.vbproj.CoreCompileInputs.cache
+D:\projeto recente\flash-tickets\obj\Debug\prj_si_2022_2S.vbproj.CopyComplete
+D:\projeto recente\flash-tickets\obj\Debug\prj_si_2022_2S.exe
+D:\projeto recente\flash-tickets\obj\Debug\prj_si_2022_2S.xml
+D:\projeto recente\flash-tickets\obj\Debug\prj_si_2022_2S.pdb
+C:\Users\guilh\Desktop\projeto recente\flash-tickets\bin\Debug\prj_si_2022_2S.exe.config
+C:\Users\guilh\Desktop\projeto recente\flash-tickets\bin\Debug\prj_si_2022_2S.exe
+C:\Users\guilh\Desktop\projeto recente\flash-tickets\bin\Debug\prj_si_2022_2S.pdb
+C:\Users\guilh\Desktop\projeto recente\flash-tickets\bin\Debug\prj_si_2022_2S.xml
+C:\Users\guilh\Desktop\projeto recente\flash-tickets\bin\Debug\MetroFramework.Design.dll
+C:\Users\guilh\Desktop\projeto recente\flash-tickets\bin\Debug\MetroFramework.dll
+C:\Users\guilh\Desktop\projeto recente\flash-tickets\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\guilh\Desktop\projeto recente\flash-tickets\obj\Debug\prj_si_2022_2S.vbproj.AssemblyReference.cache
+C:\Users\guilh\Desktop\projeto recente\flash-tickets\obj\Debug\prj_si_2022_2S.vbproj.SuggestedBindingRedirects.cache
+C:\Users\guilh\Desktop\projeto recente\flash-tickets\obj\Debug\Interop.ADODB.dll
+C:\Users\guilh\Desktop\projeto recente\flash-tickets\obj\Debug\prj_si_2022_2S.vbproj.ResolveComReference.cache
+C:\Users\guilh\Desktop\projeto recente\flash-tickets\obj\Debug\prj_si_2022_2S.frm_explorar.resources
+C:\Users\guilh\Desktop\projeto recente\flash-tickets\obj\Debug\prj_si_2022_2S.frm_menu.resources
+C:\Users\guilh\Desktop\projeto recente\flash-tickets\obj\Debug\prj_si_2022_2S.frm_senha.resources
+C:\Users\guilh\Desktop\projeto recente\flash-tickets\obj\Debug\prj_si_2022_2S.frm_perfil.resources
+C:\Users\guilh\Desktop\projeto recente\flash-tickets\obj\Debug\prj_si_2022_2S.frm_cadastro_contas.resources
+C:\Users\guilh\Desktop\projeto recente\flash-tickets\obj\Debug\prj_si_2022_2S.frm_clientes.resources
+C:\Users\guilh\Desktop\projeto recente\flash-tickets\obj\Debug\prj_si_2022_2S.frm_login.resources
+C:\Users\guilh\Desktop\projeto recente\flash-tickets\obj\Debug\prj_si_2022_2S.Resources.resources
+C:\Users\guilh\Desktop\projeto recente\flash-tickets\obj\Debug\prj_si_2022_2S.vbproj.GenerateResource.cache
+C:\Users\guilh\Desktop\projeto recente\flash-tickets\obj\Debug\prj_si_2022_2S.exe.licenses
+C:\Users\guilh\Desktop\projeto recente\flash-tickets\obj\Debug\prj_si_2022_2S.vbproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\projeto recente\flash-tickets\obj\Debug\prj_si_2022_2S.vbproj.CopyComplete
+C:\Users\guilh\Desktop\projeto recente\flash-tickets\obj\Debug\prj_si_2022_2S.exe
+C:\Users\guilh\Desktop\projeto recente\flash-tickets\obj\Debug\prj_si_2022_2S.xml
+C:\Users\guilh\Desktop\projeto recente\flash-tickets\obj\Debug\prj_si_2022_2S.pdb
+C:\Users\guilh\Desktop\projeto recente\flash-tickets\obj\Debug\prj_si_2022_2S.frm_comprar.resources
+C:\Users\enzzc\Downloads\flash-tickets-master\flash-tickets-master\obj\Debug\prj_si_2022_2S.vbproj.AssemblyReference.cache
+C:\Users\enzzc\Downloads\flash-tickets-master\flash-tickets-master\obj\Debug\prj_si_2022_2S.vbproj.SuggestedBindingRedirects.cache
+C:\Users\enzzc\Downloads\flash-tickets-master\flash-tickets-master\obj\Debug\Interop.ADODB.dll
+C:\Users\enzzc\Downloads\flash-tickets-master\flash-tickets-master\obj\Debug\prj_si_2022_2S.vbproj.ResolveComReference.cache
+C:\Users\enzzc\Downloads\flash-tickets-master\flash-tickets-master\obj\Debug\prj_si_2022_2S.frm_comprar.resources
+C:\Users\enzzc\Downloads\flash-tickets-master\flash-tickets-master\obj\Debug\prj_si_2022_2S.frm_explorar.resources
+C:\Users\enzzc\Downloads\flash-tickets-master\flash-tickets-master\obj\Debug\prj_si_2022_2S.frm_menu.resources
+C:\Users\enzzc\Downloads\flash-tickets-master\flash-tickets-master\obj\Debug\prj_si_2022_2S.frm_senha.resources
+C:\Users\enzzc\Downloads\flash-tickets-master\flash-tickets-master\obj\Debug\prj_si_2022_2S.frm_perfil.resources
+C:\Users\enzzc\Downloads\flash-tickets-master\flash-tickets-master\obj\Debug\prj_si_2022_2S.frm_cadastro_contas.resources
+C:\Users\enzzc\Downloads\flash-tickets-master\flash-tickets-master\obj\Debug\prj_si_2022_2S.frm_clientes.resources
+C:\Users\enzzc\Downloads\flash-tickets-master\flash-tickets-master\obj\Debug\prj_si_2022_2S.frm_login.resources
+C:\Users\enzzc\Downloads\flash-tickets-master\flash-tickets-master\obj\Debug\prj_si_2022_2S.vbproj.GenerateResource.cache
+C:\Users\enzzc\Downloads\flash-tickets-master\flash-tickets-master\obj\Debug\prj_si_2022_2S.exe
+C:\Users\enzzc\Downloads\flash-tickets-master\flash-tickets-master\obj\Debug\prj_si_2022_2S.xml
+C:\Users\enzzc\Downloads\flash-tickets-master\flash-tickets-master\obj\Debug\prj_si_2022_2S.pdb
+C:\Users\enzzc\Downloads\flash-tickets-master\flash-tickets-master\obj\Debug\prj_si_2022_2S.Resources.resources
+C:\Users\enzzc\Downloads\flash-tickets-master\flash-tickets-master\obj\Debug\prj_si_2022_2S.exe.licenses
+C:\Users\enzzc\Downloads\flash-tickets-master\flash-tickets-master\obj\Debug\prj_si_2022_2S.vbproj.CoreCompileInputs.cache
+C:\Users\enzzc\Downloads\flash-tickets-master\flash-tickets-master\bin\Debug\prj_si_2022_2S.exe.config
+C:\Users\enzzc\Downloads\flash-tickets-master\flash-tickets-master\bin\Debug\prj_si_2022_2S.exe
+C:\Users\enzzc\Downloads\flash-tickets-master\flash-tickets-master\bin\Debug\prj_si_2022_2S.pdb
+C:\Users\enzzc\Downloads\flash-tickets-master\flash-tickets-master\bin\Debug\prj_si_2022_2S.xml
+C:\Users\enzzc\Downloads\flash-tickets-master\flash-tickets-master\bin\Debug\MetroFramework.Design.dll
+C:\Users\enzzc\Downloads\flash-tickets-master\flash-tickets-master\bin\Debug\MetroFramework.dll
+C:\Users\enzzc\Downloads\flash-tickets-master\flash-tickets-master\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\enzzc\Downloads\flash-tickets-master\flash-tickets-master\obj\Debug\prj_si_2022_2S.vbproj.CopyComplete
+C:\Users\enzzc\Downloads\flash-tickets-master\flash-tickets-master\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\enzzc\Downloads\flash-tickets-master\flash-tickets-master\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\enzzc\Downloads\flash-tickets-master\flash-tickets-master\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\guilh\Desktop\flash-tickets-main\bin\Debug\prj_si_2022_2S.exe.config
+C:\Users\guilh\Desktop\flash-tickets-main\bin\Debug\prj_si_2022_2S.exe
+C:\Users\guilh\Desktop\flash-tickets-main\bin\Debug\prj_si_2022_2S.pdb
+C:\Users\guilh\Desktop\flash-tickets-main\bin\Debug\prj_si_2022_2S.xml
+C:\Users\guilh\Desktop\flash-tickets-main\bin\Debug\MetroFramework.Design.dll
+C:\Users\guilh\Desktop\flash-tickets-main\bin\Debug\MetroFramework.dll
+C:\Users\guilh\Desktop\flash-tickets-main\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\guilh\Desktop\flash-tickets-main\obj\Debug\prj_si_2022_2S.vbproj.AssemblyReference.cache
+C:\Users\guilh\Desktop\flash-tickets-main\obj\Debug\prj_si_2022_2S.vbproj.SuggestedBindingRedirects.cache
+C:\Users\guilh\Desktop\flash-tickets-main\obj\Debug\Interop.ADODB.dll
+C:\Users\guilh\Desktop\flash-tickets-main\obj\Debug\prj_si_2022_2S.vbproj.ResolveComReference.cache
+C:\Users\guilh\Desktop\flash-tickets-main\obj\Debug\prj_si_2022_2S.frm_comprar.resources
+C:\Users\guilh\Desktop\flash-tickets-main\obj\Debug\prj_si_2022_2S.frm_explorar.resources
+C:\Users\guilh\Desktop\flash-tickets-main\obj\Debug\prj_si_2022_2S.frm_menu.resources
+C:\Users\guilh\Desktop\flash-tickets-main\obj\Debug\prj_si_2022_2S.frm_senha.resources
+C:\Users\guilh\Desktop\flash-tickets-main\obj\Debug\prj_si_2022_2S.frm_perfil.resources
+C:\Users\guilh\Desktop\flash-tickets-main\obj\Debug\prj_si_2022_2S.frm_cadastro_contas.resources
+C:\Users\guilh\Desktop\flash-tickets-main\obj\Debug\prj_si_2022_2S.frm_clientes.resources
+C:\Users\guilh\Desktop\flash-tickets-main\obj\Debug\prj_si_2022_2S.frm_login.resources
+C:\Users\guilh\Desktop\flash-tickets-main\obj\Debug\prj_si_2022_2S.Resources.resources
+C:\Users\guilh\Desktop\flash-tickets-main\obj\Debug\prj_si_2022_2S.vbproj.GenerateResource.cache
+C:\Users\guilh\Desktop\flash-tickets-main\obj\Debug\prj_si_2022_2S.exe.licenses
+C:\Users\guilh\Desktop\flash-tickets-main\obj\Debug\prj_si_2022_2S.vbproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\flash-tickets-main\obj\Debug\prj_si_2022_2S.vbproj.CopyComplete
+C:\Users\guilh\Desktop\flash-tickets-main\obj\Debug\prj_si_2022_2S.exe
+C:\Users\guilh\Desktop\flash-tickets-main\obj\Debug\prj_si_2022_2S.xml
+C:\Users\guilh\Desktop\flash-tickets-main\obj\Debug\prj_si_2022_2S.pdb
+C:\Users\guilh\Desktop\flash-tickets-main\obj\Debug\prj_si_2022_2S.frm_ingressos.resources
+C:\Users\guilh\Desktop\flash-tickets-master\bin\Debug\prj_si_2022_2S.exe.config
+C:\Users\guilh\Desktop\flash-tickets-master\bin\Debug\prj_si_2022_2S.exe
+C:\Users\guilh\Desktop\flash-tickets-master\bin\Debug\prj_si_2022_2S.pdb
+C:\Users\guilh\Desktop\flash-tickets-master\bin\Debug\prj_si_2022_2S.xml
+C:\Users\guilh\Desktop\flash-tickets-master\bin\Debug\MetroFramework.Design.dll
+C:\Users\guilh\Desktop\flash-tickets-master\bin\Debug\MetroFramework.dll
+C:\Users\guilh\Desktop\flash-tickets-master\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\guilh\Desktop\flash-tickets-master\obj\Debug\prj_si_2022_2S.vbproj.AssemblyReference.cache
+C:\Users\guilh\Desktop\flash-tickets-master\obj\Debug\prj_si_2022_2S.vbproj.SuggestedBindingRedirects.cache
+C:\Users\guilh\Desktop\flash-tickets-master\obj\Debug\Interop.ADODB.dll
+C:\Users\guilh\Desktop\flash-tickets-master\obj\Debug\prj_si_2022_2S.vbproj.ResolveComReference.cache
+C:\Users\guilh\Desktop\flash-tickets-master\obj\Debug\prj_si_2022_2S.frm_ingressos.resources
+C:\Users\guilh\Desktop\flash-tickets-master\obj\Debug\prj_si_2022_2S.frm_comprar.resources
+C:\Users\guilh\Desktop\flash-tickets-master\obj\Debug\prj_si_2022_2S.frm_explorar.resources
+C:\Users\guilh\Desktop\flash-tickets-master\obj\Debug\prj_si_2022_2S.frm_menu.resources
+C:\Users\guilh\Desktop\flash-tickets-master\obj\Debug\prj_si_2022_2S.frm_senha.resources
+C:\Users\guilh\Desktop\flash-tickets-master\obj\Debug\prj_si_2022_2S.frm_perfil.resources
+C:\Users\guilh\Desktop\flash-tickets-master\obj\Debug\prj_si_2022_2S.frm_cadastro_contas.resources
+C:\Users\guilh\Desktop\flash-tickets-master\obj\Debug\prj_si_2022_2S.frm_clientes.resources
+C:\Users\guilh\Desktop\flash-tickets-master\obj\Debug\prj_si_2022_2S.frm_login.resources
+C:\Users\guilh\Desktop\flash-tickets-master\obj\Debug\prj_si_2022_2S.Resources.resources
+C:\Users\guilh\Desktop\flash-tickets-master\obj\Debug\prj_si_2022_2S.vbproj.GenerateResource.cache
+C:\Users\guilh\Desktop\flash-tickets-master\obj\Debug\prj_si_2022_2S.exe.licenses
+C:\Users\guilh\Desktop\flash-tickets-master\obj\Debug\prj_si_2022_2S.vbproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\flash-tickets-master\obj\Debug\prj_si_2022_2S.vbproj.CopyComplete
+C:\Users\guilh\Desktop\flash-tickets-master\obj\Debug\prj_si_2022_2S.exe
+C:\Users\guilh\Desktop\flash-tickets-master\obj\Debug\prj_si_2022_2S.xml
+C:\Users\guilh\Desktop\flash-tickets-master\obj\Debug\prj_si_2022_2S.pdb
+C:\Users\guilh\Desktop\flash-tickets-master\obj\Debug\prj_si_2022_2S.frm_adm.resources
+C:\Users\enzzc\Desktop\flash-tickets-master\bin\Debug\prj_si_2022_2S.exe.config
+C:\Users\enzzc\Desktop\flash-tickets-master\bin\Debug\prj_si_2022_2S.exe
+C:\Users\enzzc\Desktop\flash-tickets-master\bin\Debug\prj_si_2022_2S.pdb
+C:\Users\enzzc\Desktop\flash-tickets-master\bin\Debug\prj_si_2022_2S.xml
+C:\Users\enzzc\Desktop\flash-tickets-master\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\enzzc\Desktop\flash-tickets-master\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\enzzc\Desktop\flash-tickets-master\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\enzzc\Desktop\flash-tickets-master\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\enzzc\Desktop\flash-tickets-master\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\enzzc\Desktop\flash-tickets-master\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\enzzc\Desktop\flash-tickets-master\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\enzzc\Desktop\flash-tickets-master\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\enzzc\Desktop\flash-tickets-master\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\enzzc\Desktop\flash-tickets-master\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\enzzc\Desktop\flash-tickets-master\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\enzzc\Desktop\flash-tickets-master\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\enzzc\Desktop\flash-tickets-master\bin\Debug\MetroFramework.Design.dll
+C:\Users\enzzc\Desktop\flash-tickets-master\bin\Debug\MetroFramework.dll
+C:\Users\enzzc\Desktop\flash-tickets-master\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\enzzc\Desktop\flash-tickets-master\obj\Debug\prj_si_2022_2S.vbproj.AssemblyReference.cache
+C:\Users\enzzc\Desktop\flash-tickets-master\obj\Debug\prj_si_2022_2S.vbproj.SuggestedBindingRedirects.cache
+C:\Users\enzzc\Desktop\flash-tickets-master\obj\Debug\Interop.ADODB.dll
+C:\Users\enzzc\Desktop\flash-tickets-master\obj\Debug\prj_si_2022_2S.vbproj.ResolveComReference.cache
+C:\Users\enzzc\Desktop\flash-tickets-master\obj\Debug\prj_si_2022_2S.frm_adm.resources
+C:\Users\enzzc\Desktop\flash-tickets-master\obj\Debug\prj_si_2022_2S.frm_ingressos.resources
+C:\Users\enzzc\Desktop\flash-tickets-master\obj\Debug\prj_si_2022_2S.frm_comprar.resources
+C:\Users\enzzc\Desktop\flash-tickets-master\obj\Debug\prj_si_2022_2S.frm_explorar.resources
+C:\Users\enzzc\Desktop\flash-tickets-master\obj\Debug\prj_si_2022_2S.frm_menu.resources
+C:\Users\enzzc\Desktop\flash-tickets-master\obj\Debug\prj_si_2022_2S.frm_senha.resources
+C:\Users\enzzc\Desktop\flash-tickets-master\obj\Debug\prj_si_2022_2S.frm_perfil.resources
+C:\Users\enzzc\Desktop\flash-tickets-master\obj\Debug\prj_si_2022_2S.frm_cadastro_contas.resources
+C:\Users\enzzc\Desktop\flash-tickets-master\obj\Debug\prj_si_2022_2S.frm_clientes.resources
+C:\Users\enzzc\Desktop\flash-tickets-master\obj\Debug\prj_si_2022_2S.frm_login.resources
+C:\Users\enzzc\Desktop\flash-tickets-master\obj\Debug\prj_si_2022_2S.Resources.resources
+C:\Users\enzzc\Desktop\flash-tickets-master\obj\Debug\prj_si_2022_2S.vbproj.GenerateResource.cache
+C:\Users\enzzc\Desktop\flash-tickets-master\obj\Debug\prj_si_2022_2S.exe.licenses
+C:\Users\enzzc\Desktop\flash-tickets-master\obj\Debug\prj_si_2022_2S.vbproj.CoreCompileInputs.cache
+C:\Users\enzzc\Desktop\flash-tickets-master\obj\Debug\prj_si_2022_2S.vbproj.CopyComplete
+C:\Users\enzzc\Desktop\flash-tickets-master\obj\Debug\prj_si_2022_2S.exe
+C:\Users\enzzc\Desktop\flash-tickets-master\obj\Debug\prj_si_2022_2S.xml
+C:\Users\enzzc\Desktop\flash-tickets-master\obj\Debug\prj_si_2022_2S.pdb
+C:\Users\guilh\Desktop\flash-tickets-main\obj\Debug\prj_si_2022_2S.frm_adm.resources
+C:\Users\guilh\Desktop\flash-tickets-main\obj\Debug\prj_si_2022_2S.frm_suporte.resources
+C:\Users\guilh\Desktop\flash-tickets-main\obj\Debug\prj_si_2022_2S.frm_ajuda.resources
+C:\Users\enzzc\Desktop\flash-tickets\obj\Debug\prj_si_2022_2S.frm_adm.resources
+C:\Users\enzzc\Desktop\flash-tickets\obj\Debug\prj_si_2022_2S.frm_ajuda.resources
+C:\Users\enzzc\Desktop\flash-tickets\obj\Debug\prj_si_2022_2S.frm_ingressos.resources
+C:\Users\enzzc\Desktop\flash-tickets\obj\Debug\prj_si_2022_2S.frm_comprar.resources
+C:\Users\enzzc\Desktop\flash-tickets\obj\Debug\prj_si_2022_2S.frm_explorar.resources
+C:\Users\enzzc\Desktop\flash-tickets\obj\Debug\prj_si_2022_2S.frm_menu.resources
+C:\Users\enzzc\Desktop\flash-tickets\obj\Debug\prj_si_2022_2S.frm_suporte.resources
+C:\Users\enzzc\Desktop\flash-tickets\bin\Debug\Guna.UI.dll
+C:\Users\enzzc\Desktop\flash-tickets\bin\Debug\Guna.UI2.dll
